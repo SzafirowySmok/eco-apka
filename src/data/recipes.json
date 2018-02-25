@@ -1,30 +1,35 @@
+
 [
     {
         "name": "zupa z dyni",
-        "components": ["dynia", "cebula", "kasza jaglana", "jogurt"],
+        "components": ["dynia","cebula", "cytryna", "kasza jaglana", "jogurt"],
         "spices": ["czosnek", "imbir", "kurkuma"],
         "allergens": ["mleko", "cytrusy"],
-        "meal": "soup"
+        "meal": "soup",
+        "id": 1
     },
     {
         "name": "pstrąg w papilotach",
         "components": ["pstrąg", "por", "masło", "miód", "cytryna"],
         "spices": ["ziele angielskie"],
         "allergens": ["mleko", "miód", "cytrusy"],
-        "meal": "dinner"
+        "meal": "dinner",
+        "id": 2
     },
     {
-        "name": "nalesniki z bananami",
+        "name": "naleśniki z bananami",
         "components": ["mleko", "mąka kukurydziana", "banany", "kakao", "jogurt grecki"],
         "spices": [],
         "allergens": ["mleko", "kakao"],
-        "meal": "dinner"
+        "meal": "dinner",
+        "id": 3
     },
     {
         "name": "szarlotka",
         "components": ["mąka", "jajka", "jabłka"],
         "spices": ["cynamon"],
         "allergens": ["jajka", "gluten"],
-        "meal": "dessert"
+        "meal": "dessert",
+        "id": 4
     }
 ]

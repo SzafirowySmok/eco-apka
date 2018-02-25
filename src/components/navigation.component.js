@@ -10,7 +10,7 @@ const Navigation = props => (
             <div className="nav-main">
                 <ul>
                     <li><Link to="/breakfast">Śniadania</Link></li>
-                    <li><Link to="/salad"></Link>Sałatki</li>
+                    <li><Link to="/salad">Sałatki</Link></li>
                     <li><Link to="/soup">Zupy</Link></li>
                     <li><Link to="/dinner">Dania główne</Link></li>
                     <li><Link to="/dessert">Desery</Link></li>
